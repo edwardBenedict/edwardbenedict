@@ -1,8 +1,9 @@
-### Hi 👋
-# i'm Ed
-# 🔭 I’m currently working on Clarusway.
-# 🌱 I’m currently learning Full-Stack Development Languages.
-# 📫 How to reach me: edward@clarusway.com
+# Hi 👋
+## i'm Ed
+## 🔭 I’m currently working on Clarusway.
+## 🌱 I’m currently learning Full-Stack Development Languages.
+## 💬 I've already known HTML, CSS, JS, ReactJS, ReactNative, Python. 
+## 📫 How to reach me: edward@clarusway.com
 
 <!--
 **edwardBenedict/edwardbenedict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
