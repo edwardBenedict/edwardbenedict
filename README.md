@@ -1,8 +1,7 @@
 # Hi 👋
 ## i'm Ed
-## 🔭 I’m currently working on Clarusway.
 ## 🌱 I’m currently learning Full-Stack Development Languages.
-## 💬 I've already known HTML, CSS, JS, ReactJS, ReactNative, Python. 
+## 💬 I've already known HTML, CSS, JS, ReactJS, ReactNative, Python, Docker, AWS Services. 
 ## 📫 How to reach me: edward@clarusway.com
 
 <!--
