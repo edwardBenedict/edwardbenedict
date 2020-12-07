@@ -1,5 +1,5 @@
 # Hi 👋
-# I'm Ed
+# I'm Ed.
 ## 🌱 I’m currently learning Full-Stack Development Languages.
 ## 💬 I've already known HTML, CSS, JS, ReactJS, ReactNative, Python, Docker, AWS Services. 
 ## 📫 How to reach me: edwardbenedict92@gmail.com
